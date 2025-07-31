@@ -11,7 +11,7 @@ Clear use cases include online e-commerce payments and offline QR-based transact
    
 To establish a universal Payment QR Code specification that includes:
 A standardized format (e.g., transaction amount, target wallet address, memo field, etc.).
-Support for multiple payment tokens (e.g., Aptos, Gui, etc.).
+Support for multiple payment tokens (e.g. Aptos, Usdc, Gui, etc.).
 Extensibility to accommodate future tokens or payment methods.
 A standard URL protocol for requesting native Aptos transfers, Aptos Token transfers, and Aptos transactions allows for a better user experience across apps and wallets in the Aptos ecosystem.
 
